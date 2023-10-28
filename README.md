@@ -15,8 +15,6 @@ Welcome! This is my professional profile as a mathematics student entering the f
 2. About
 3. Resume
 4. Contact Me
-## Technologies Used
-My profile is built using a combination of technologies, including HTML5, CSS3 and JavaScript.
 
 ## Home
 
@@ -25,8 +23,13 @@ My profile is built using a combination of technologies, including HTML5, CSS3 a
 ## Resume
 
 ## Contact Me
-I am best reached by email at adamouellet98@gmail.com
+I am best reached by email
+
+## Technologies Used
+My profile is built using a combination of technologies, including HTML5, CSS3 and JavaScript.
+
 ## Setup
+
 
 1. **Clone the repository:**
    ```bash
