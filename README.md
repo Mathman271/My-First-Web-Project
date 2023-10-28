@@ -2,32 +2,30 @@
 
 ## Overview
 
-Welcome to the repository for my personal website! This project contains the source code and assets for my online portfolio.
+Welcome! This is my professional profile as a mathematics student entering the field of computer science.
 
 ## Table of Contents
 
-- [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
-
-- **Responsive Design:** The website is designed to work seamlessly across various devices and screen sizes.
-- **Portfolio Section:** Showcase your projects, achievements, or any work you want to highlight.
-- **Contact Form:** Allow visitors to reach out to you through a contact form.
-- **Blog (Optional):** If you have a blog, mention it here.
-
+1. Home
+2. About
+3. Resume
+4. Contact Me
 ## Technologies Used
+My profile is built using a combination of technologies, including HTML5, CSS3 and JavaScript.
 
-- HTML5
-- CSS3
-- JavaScript
-- [List any additional technologies or frameworks you've used]
+## Home
 
+## About Me
+
+## Resume
+
+## Contact Me
+I am best reached by email at adamouellet98@gmail.com
 ## Setup
 
 1. **Clone the repository:**
